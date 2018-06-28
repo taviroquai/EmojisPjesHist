@@ -1,0 +1,87 @@
+.emojitable{
+	height: 100vh;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr 1fr 1fr;
+	grid-gap: 20px;
+	justify-content: center;
+	align-items: center;
+}
+.item{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.emoji1{
+	grid-template-columns: auto;
+	grid-auto-rows: auto;
+	width: 300px;
+	height: 300px;
+}
+.emoji2{
+	grid-template-columns: auto;
+	grid-auto-rows: auto;
+	width: 300px;
+	height: 300px;
+}
+.emoji3{
+	grid-template-columns: auto;
+	grid-auto-rows: auto;
+	width: 300px;
+	height: 300px;
+}
+.emoji4{
+	grid-template-columns: auto;
+	grid-auto-rows: auto;
+	width: 300px;
+	height: 300px;
+}
+.emoji5{
+	grid-template-columns: auto;
+	grid-auto-rows: auto;
+	width: 300px;
+	height: 300px;
+}
+.emoji6{
+	grid-template-columns: auto;
+	grid-auto-rows: auto;
+	width: 300px;
+	height: 300px;
+}
+.emoji7{
+	grid-template-columns: auto;
+	grid-auto-rows: auto;
+	width: 300px;
+	height: 300px;
+}
+.emoji8{
+	grid-template-columns: auto;
+	grid-auto-rows: auto;
+	width: 300px;
+	height: 300px;
+}
+.emoji9{
+	grid-template-columns: auto;
+	grid-auto-rows: auto;
+	width: 300px;
+	height: 300px;
+}
+.emoji10{
+	grid-template-columns: auto;
+	grid-auto-rows: auto;
+	width: 300px;
+	height: 300px;
+}
+.emoji11{
+	grid-template-columns: auto;
+	grid-auto-rows: auto;
+	width: 300px;
+	height: 300px;
+}
+.emoji12{
+	grid-template-columns: auto;
+	grid-auto-rows: auto;
+	width: 300px;
+	height: 300px;
+}
+}
