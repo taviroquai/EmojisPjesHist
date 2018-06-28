@@ -12,11 +12,14 @@
 	justify-content: center;
 	align-items: center;
 }
+.item img {
+	height: 200px;
+}
 .emoji1{
 	grid-template-columns: auto;
 	grid-auto-rows: auto;
-	width: 300px;
-	height: 300px;
+	width: 200px;
+	height: 200px;
 }
 .emoji2{
 	grid-template-columns: auto;
